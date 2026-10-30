@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene-01",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "Có một ngôi nhà nhỏ, nơi bốn anh chị em sống cùng người bà mà chúng vô cùng yêu quý.",
+  "sceneDurationMs": 9000,
+  "elements": [
+    {
+      "id": "scene-main",
+      "label": "Cảnh chính",
+      "sequence": 1,
+      "narrativeRole": "Toàn bộ nội dung chính của cảnh",
+      "subtitle": "Có một ngôi nhà nhỏ, nơi bốn anh chị em sống cùng người bà mà chúng vô cùng yêu quý.",
+      "type": "scene",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 8200,
+        "maskPaddingPx": 22,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          60,
+          360
+        ],
+        "end": [
+          1220,
+          360
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

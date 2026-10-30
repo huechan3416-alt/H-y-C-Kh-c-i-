@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene-07",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "Thần Chết kể về hai anh em tên là Niềm Vui và Nỗi Buồn.",
+  "sceneDurationMs": 9000,
+  "elements": [
+    {
+      "id": "scene-main",
+      "label": "Cảnh chính",
+      "sequence": 1,
+      "narrativeRole": "Toàn bộ nội dung chính của cảnh",
+      "subtitle": "Thần Chết kể về hai anh em tên là Niềm Vui và Nỗi Buồn.",
+      "type": "scene",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 8200,
+        "maskPaddingPx": 22,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          60,
+          360
+        ],
+        "end": [
+          1220,
+          360
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

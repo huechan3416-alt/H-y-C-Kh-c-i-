@@ -1,0 +1,43 @@
+{
+  "sceneId": "scene-09",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "storyBasis": "Nếu chưa từng yêu thương một người thật nhiều, làm sao ta có thể nhớ họ đến vậy?",
+  "sceneDurationMs": 9000,
+  "elements": [
+    {
+      "id": "scene-main",
+      "label": "Cảnh chính",
+      "sequence": 1,
+      "narrativeRole": "Toàn bộ nội dung chính của cảnh",
+      "subtitle": "Nếu chưa từng yêu thương một người thật nhiều, làm sao ta có thể nhớ họ đến vậy?",
+      "type": "scene",
+      "region": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "reveal": {
+        "direction": "left_to_right",
+        "startMs": 300,
+        "durationMs": 8200,
+        "maskPaddingPx": 22,
+        "protectedRegions": []
+      },
+      "handPath": {
+        "start": [
+          60,
+          360
+        ],
+        "end": [
+          1220,
+          360
+        ],
+        "easing": "easeInOut"
+      }
+    }
+  ]
+}

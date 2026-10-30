@@ -1,0 +1,409 @@
+{
+  "schema_version": "1.0.0",
+  "project_id": "haycukhocdi-whiteboard",
+  "title": "Hãy cứ khóc đi, con tim bé nhỏ, nhưng đừng gục ngã",
+  "language": "vi",
+  "prepared_date": "2026-10-30",
+  "status": "partial_source_recovery",
+  "source_story_author_as_provided": "Glenn Ringtved",
+  "style": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.",
+  "character_consistency": "Keep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "source_notes": {
+    "archive": "haycukhocdi_whiteboard_pack.zip",
+    "sha256": "bc45f6f92d07187a26ce4b2c5354538f5f4338584fc6f45d540aa4f2947d6455",
+    "original_full_storyboard_available": false,
+    "original_full_srt_available": false,
+    "timing_note": "16 source annotations each specify 9000 ms. Sequential draft timing only; not matched to the earlier 8-minute SRT.",
+    "image_note": "Existing PNGs are preserved, including their margins. Their painted appearance differs from the requested minimalist vector prompts."
+  },
+  "scenes": [
+    {
+      "id": "scene-01",
+      "number": 1,
+      "title": "ngoi nha va ba",
+      "narration": "Có một ngôi nhà nhỏ, nơi bốn anh chị em sống cùng người bà mà chúng vô cùng yêu quý.",
+      "image_description": "Bốn anh chị em quây quần bên người bà tóc bạc trong căn nhà ấm cúng.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bốn anh chị em quây quần bên người bà tóc bạc trong căn nhà ấm cúng.",
+      "image_path": "assets/images/scene-01-ngoi-nha-va-ba.png",
+      "subtitle_cue_ids": [
+        1
+      ],
+      "timing": {
+        "start_ms": 0,
+        "end_ms": 9000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-01-ngoi-nha-va-ba.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-02",
+      "number": 2,
+      "title": "than chet den",
+      "narration": "Một buổi tối, khi căn nhà đã yên tĩnh, có một vị khách lạ bước đến. Đó là Thần Chết.",
+      "image_description": "Một vị khách mặc áo choàng tối màu đến căn nhà vào buổi tối; bọn trẻ quan sát vị khách.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Một vị khách mặc áo choàng tối màu đến căn nhà vào buổi tối; bọn trẻ quan sát vị khách.",
+      "image_path": "assets/images/scene-02-than-chet-den.png",
+      "subtitle_cue_ids": [
+        2
+      ],
+      "timing": {
+        "start_ms": 9000,
+        "end_ms": 18000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-02-than-chet-den.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-03",
+      "number": 3,
+      "title": "bon dua tre ban ke",
+      "narration": "Bọn trẻ biết đêm nay Thần Chết đến để đưa bà đi. Thế là bốn đứa trẻ nghĩ ra một kế hoạch.",
+      "image_description": "Bốn đứa trẻ tụ lại bàn bạc với nhau trong căn nhà.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bốn đứa trẻ tụ lại bàn bạc với nhau trong căn nhà.",
+      "image_path": "assets/images/scene-03-bon-dua-tre-ban-ke.png",
+      "subtitle_cue_ids": [
+        3
+      ],
+      "timing": {
+        "start_ms": 18000,
+        "end_ms": 27000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-03-bon-dua-tre-ban-ke.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-04",
+      "number": 4,
+      "title": "ca phe va banh",
+      "narration": "Chúng pha cà phê, mang bánh ra rồi liên tục rót thêm vào chiếc cốc của vị khách.",
+      "image_description": "Bọn trẻ mời vị khách cà phê và bánh quanh chiếc bàn.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bọn trẻ mời vị khách cà phê và bánh quanh chiếc bàn.",
+      "image_path": "assets/images/scene-04-ca-phe-va-banh.png",
+      "subtitle_cue_ids": [
+        4
+      ],
+      "timing": {
+        "start_ms": 27000,
+        "end_ms": 36000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-04-ca-phe-va-banh.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-05",
+      "number": 5,
+      "title": "dong ho cat",
+      "narration": "Nhưng thời gian không dừng lại. Những hạt cát trong chiếc đồng hồ vẫn rơi.",
+      "image_description": "Chiếc đồng hồ cát ở trung tâm; bọn trẻ ngồi xung quanh quan sát.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Chiếc đồng hồ cát ở trung tâm; bọn trẻ ngồi xung quanh quan sát.",
+      "image_path": "assets/images/scene-05-dong-ho-cat.png",
+      "subtitle_cue_ids": [
+        5
+      ],
+      "timing": {
+        "start_ms": 36000,
+        "end_ms": 45000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-05-dong-ho-cat.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-06",
+      "number": 6,
+      "title": "da den luc",
+      "narration": "Thần Chết nói: Đã đến lúc rồi. Bốn đứa trẻ im lặng.",
+      "image_description": "Vị khách áo choàng nói chuyện với bốn đứa trẻ đang im lặng.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Vị khách áo choàng nói chuyện với bốn đứa trẻ đang im lặng.",
+      "image_path": "assets/images/scene-06-da-den-luc.png",
+      "subtitle_cue_ids": [
+        6
+      ],
+      "timing": {
+        "start_ms": 45000,
+        "end_ms": 54000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-06-da-den-luc.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-07",
+      "number": 7,
+      "title": "niem vui va noi buon",
+      "narration": "Thần Chết kể về hai anh em tên là Niềm Vui và Nỗi Buồn.",
+      "image_description": "Hai nhân vật biểu tượng Niềm Vui và Nỗi Buồn trong hai khoảng không gian sáng và tối.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Hai nhân vật biểu tượng Niềm Vui và Nỗi Buồn trong hai khoảng không gian sáng và tối.",
+      "image_path": "assets/images/scene-07-niem-vui-va-noi-buon.png",
+      "subtitle_cue_ids": [
+        7
+      ],
+      "timing": {
+        "start_ms": 54000,
+        "end_ms": 63000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-07-niem-vui-va-noi-buon.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-08",
+      "number": 8,
+      "title": "niem vui bien mat",
+      "narration": "Một ngày nọ, Niềm Vui biến mất. Nỗi Buồn đứng lại một mình.",
+      "image_description": "Nỗi Buồn ở lại một mình; hình ảnh Niềm Vui mờ dần bên cạnh.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Nỗi Buồn ở lại một mình; hình ảnh Niềm Vui mờ dần bên cạnh.",
+      "image_path": "assets/images/scene-08-niem-vui-bien-mat.png",
+      "subtitle_cue_ids": [
+        8
+      ],
+      "timing": {
+        "start_ms": 63000,
+        "end_ms": 72000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-08-niem-vui-bien-mat.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-09",
+      "number": 9,
+      "title": "yeu thuong va nuoc mat",
+      "narration": "Nếu chưa từng yêu thương một người thật nhiều, làm sao ta có thể nhớ họ đến vậy?",
+      "image_description": "Hình ảnh bà và cháu ôm nhau được đặt cạnh hình ảnh người cháu nhớ thương bà.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Hình ảnh bà và cháu ôm nhau được đặt cạnh hình ảnh người cháu nhớ thương bà.",
+      "image_path": "assets/images/scene-09-yeu-thuong-va-nuoc-mat.png",
+      "subtitle_cue_ids": [
+        9
+      ],
+      "timing": {
+        "start_ms": 72000,
+        "end_ms": 81000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-09-yeu-thuong-va-nuoc-mat.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-10",
+      "number": 10,
+      "title": "noi buon khong la ke thu",
+      "narration": "Nỗi buồn không phải kẻ thù. Bọn trẻ buồn bởi vì chúng đã từng rất hạnh phúc bên bà.",
+      "image_description": "Bọn trẻ ngồi bên vị khách; phía sau là những hình ảnh kỷ niệm với bà.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bọn trẻ ngồi bên vị khách; phía sau là những hình ảnh kỷ niệm với bà.",
+      "image_path": "assets/images/scene-10-noi-buon-khong-la-ke-thu.png",
+      "subtitle_cue_ids": [
+        10
+      ],
+      "timing": {
+        "start_ms": 81000,
+        "end_ms": 90000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-10-noi-buon-khong-la-ke-thu.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-11",
+      "number": 11,
+      "title": "hay cu khoc",
+      "narration": "Hãy cứ khóc. Nhưng đừng để trái tim mình gục ngã.",
+      "image_description": "Vị khách an ủi một đứa trẻ đang khóc; biểu tượng trái tim phát sáng bên cạnh.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Vị khách an ủi một đứa trẻ đang khóc; biểu tượng trái tim phát sáng bên cạnh.",
+      "image_path": "assets/images/scene-11-hay-cu-khoc.png",
+      "subtitle_cue_ids": [
+        11
+      ],
+      "timing": {
+        "start_ms": 90000,
+        "end_ms": 99000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-11-hay-cu-khoc.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-12",
+      "number": 12,
+      "title": "ky niem ben ba",
+      "narration": "Bọn trẻ bước vào phòng bà và kể cho bà nghe những kỷ niệm.",
+      "image_description": "Bốn đứa trẻ quây quần bên bà trên giường; các kỷ niệm hiện phía trên.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bốn đứa trẻ quây quần bên bà trên giường; các kỷ niệm hiện phía trên.",
+      "image_path": "assets/images/scene-12-ky-niem-ben-ba.png",
+      "subtitle_cue_ids": [
+        12
+      ],
+      "timing": {
+        "start_ms": 99000,
+        "end_ms": 108000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-12-ky-niem-ben-ba.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-13",
+      "number": 13,
+      "title": "loi chao tam biet",
+      "narration": "Bọn trẻ nói: Bà ơi, chúng cháu yêu bà. Bà mỉm cười rồi khép mắt.",
+      "image_description": "Bốn đứa trẻ ở sát bên người bà đang nằm trên giường, nói lời chào tạm biệt.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bốn đứa trẻ ở sát bên người bà đang nằm trên giường, nói lời chào tạm biệt.",
+      "image_path": "assets/images/scene-13-loi-chao-tam-biet.png",
+      "subtitle_cue_ids": [
+        13
+      ],
+      "timing": {
+        "start_ms": 108000,
+        "end_ms": 117000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-13-loi-chao-tam-biet.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-14",
+      "number": 14,
+      "title": "bon dua tre khoc",
+      "narration": "Bọn trẻ đã khóc. Nhưng lần này, chúng không cố ngăn những giọt nước mắt nữa.",
+      "image_description": "Bốn đứa trẻ ôm nhau khóc; phía trên là hình ảnh kỷ niệm ấm áp về bà.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Bốn đứa trẻ ôm nhau khóc; phía trên là hình ảnh kỷ niệm ấm áp về bà.",
+      "image_path": "assets/images/scene-14-bon-dua-tre-khoc.png",
+      "subtitle_cue_ids": [
+        14
+      ],
+      "timing": {
+        "start_ms": 117000,
+        "end_ms": 126000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-14-bon-dua-tre-khoc.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-15",
+      "number": 15,
+      "title": "nhieu nam sau",
+      "narration": "Nhiều năm trôi qua. Bọn trẻ lớn lên và trở về ngôi nhà cũ.",
+      "image_description": "Những người cháu đã lớn trở về bên ngôi nhà cũ dưới tán cây.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Những người cháu đã lớn trở về bên ngôi nhà cũ dưới tán cây.",
+      "image_path": "assets/images/scene-15-nhieu-nam-sau.png",
+      "subtitle_cue_ids": [
+        15
+      ],
+      "timing": {
+        "start_ms": 126000,
+        "end_ms": 135000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-15-nhieu-nam-sau.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    },
+    {
+      "id": "scene-16",
+      "number": 16,
+      "title": "trai tim khong guc nga",
+      "narration": "Hãy cứ khóc đi, con tim bé nhỏ... nhưng đừng gục ngã.",
+      "image_description": "Một người cháu với giọt nước mắt và biểu tượng trái tim sáng trên ngực.",
+      "image_prompt": "Minimalist 2D vector storybook illustration for a whiteboard animation, clean simple outlines, flat muted warm colors, uncluttered light background, expressive faces, consistent character designs, 16:9 composition, no text, no lettering, no watermark.\nKeep the same grandmother (about 75, silver hair in a low bun, kind face, slender build) and the same four siblings (two boys and two girls, about 6 to 12) wherever present. Keep Death as the same calm cloaked visitor. In the later-years scene preserve recognizable facial features while aging the siblings. Do not add characters or events beyond the scene description.\nScene content (Vietnamese): Một người cháu với giọt nước mắt và biểu tượng trái tim sáng trên ngực.",
+      "image_path": "assets/images/scene-16-trai-tim-khong-guc-nga.png",
+      "subtitle_cue_ids": [
+        16
+      ],
+      "timing": {
+        "start_ms": 135000,
+        "end_ms": 144000,
+        "duration_ms": 9000,
+        "status": "draft_from_annotation_duration"
+      },
+      "provenance": {
+        "narration": "sources/annotations/scene-16-trai-tim-khong-guc-nga.annotation.json#storyBasis",
+        "image_description": "New description based on visual inspection of the supplied PNG; not recovered original HÌNH text.",
+        "image_prompt": "New normalized prompt; not the recovered original prompt.",
+        "original_full_narration_recovered": false
+      }
+    }
+  ]
+}
